@@ -36,6 +36,7 @@ python dirbruster.py -u http://127.0.0.1:8000 -t 10 -o results.txt
 [301] http://127.0.0.1:8000/backup
 Total found: 2
 ```
+![Scanner output](scan-output.png)
 
 ## What I learned
 Python, HTTP status codes, threading with `concurrent.futures`, argparse, error handling.
