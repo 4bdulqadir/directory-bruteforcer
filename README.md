@@ -13,7 +13,7 @@ Built as Project 7 of the Cybersecurity in Python Level 1 track (Arfa Karim Tech
 
 ## Installation
 ```
-git clone https://github.com/YOUR-USERNAME/directory-bruteforcer.git
+git clone https://github.com/4bdulqadir/directory-bruteforcer.git
 cd directory-bruteforcer
 pip install -r requirements.txt
 ```
