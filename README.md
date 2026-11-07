@@ -1,7 +1,6 @@
 # Directory Bruteforcer
 
 A simple multi-threaded web directory scanner written in Python.
-Built as Project 7 of the Cybersecurity in Python Level 1 track (Arfa Karim Technology Incubator, Lahore).
 
 > **Disclaimer:** For educational use only. Scan only systems you own or have written permission to test. Unauthorized scanning is illegal.
 
